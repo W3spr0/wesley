@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F001%2F233%2F910%2Foriginal%2Fblue-simple-polygon-background-vector.jpg&f=1&nofb=1&ipt=ddb4dc717d88bc6b5caf150f08d6e7cda832194304586c18d368828d38c94c9a&ipo=images);
+}
+
+.text-red{
+    color: red;
+}
+
+footer{
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    color: maroon;
+    text-align: center;
+
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F539%2F589%2Foriginal%2Fabstract-sunbeams-red-rays-background-vector-illustration.jpg&f=1&nofb=1&ipt=020ea5dde1975b87a5b6c269a759955c919091f67afbcc5cdd430bc6618cca78&ipo=images);
+    padding: 40px 0;
+    color: white;
+    font-weight: bold;
+}
+footer img{
+    height: 10%;
+    width: 5%;
+}
+
+.align-left{
+    text-align: left;
+}
